@@ -1,0 +1,1255 @@
+/home/monitor/PublicDat/ZX_CFFEX_IFIHIC_%d.dat
+-1
+/home/sudebug/python/output/sim.csv
+0.5
+    --------
+*IMtd10c
+10 raw 0
+IM2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IM[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IM[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/params_IM_trade_trainday10_ur.json
+--------
+SetMaxPos 1 1 1
+OpenThreshold 8.5e-05 0.000125 1e-05
+ CloseThreshold 8.5e-05 0.000125 1e-05
+  --------
+ICtd10s
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IC_%d_all_params_IC_trade_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.30 0.50 0.05
+ CloseThreshold 0.30 0.50 0.05
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.14 0.14 1
+PriceCost 0.1 0.1 1
+  --------
+ICtd10
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_params_IC_trade_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.30 0.50 0.05
+ CloseThreshold 0.30 0.50 0.05
+   --------
+ICtd60
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_params_IC_trade_trainday60.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.5 .05
+ CloseThreshold 0.3 0.5 .05
+--------
+ICtd30
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_params_IC_trade_trainday30Ret30.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.5 0.05
+ CloseThreshold 0.3 0.5 0.05
+   --------
+ICtd60s
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IC_%d_all_params_IC_trade_trainday60.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.30 0.50 .05
+ CloseThreshold 0.30 0.50 .05
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.14 0.14 1
+PriceCost 0.1 0.1 1
+--------
+ICtd30s
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IC_%d_all_params_IC_trade_trainday30Ret30.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.30 0.50 .05
+ CloseThreshold 0.30 0.50 .05
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.14 0.14 1
+PriceCost 0.1 0.1 1
+--------
+*ICb10
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/las10_signallist_IC_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.45 0.03
+ CloseThreshold 0.3 0.45 0.03
+ --------
+*ICb3
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/las3_signallist_IC_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.45 0.03
+ CloseThreshold 0.3 0.45 0.03
+    --------
+*IFno
+10 raw 0
+IF2212;IC2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IF.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.15 0.4 0.1
+ CloseThreshold 0.15 0.4 0.1
+  --------
+*Iftd3
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signal_trainday3_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.15 0.4 0.1
+ CloseThreshold 0.15 0.4 0.1
+   --------
+*IFtree
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/check_IF[v1]_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.14 0.22 0.02
+ CloseThreshold 0.14 0.22 0.02
+    --------
+IFnn10s
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IF_%d_all_params_IF_addnn_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.16 0.26 0.02
+ CloseThreshold 0.16 0.26 0.02
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.09 0.09 1
+PriceCost 0.1 0.1 1
+   --------
+IFnn60s
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IF_%d_all_params_IF_addnn_trainday60.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.16 0.26 0.02
+ CloseThreshold 0.16 0.26 0.02
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.09 0.09 1
+PriceCost 0.1 0.1 1
+   --------
+IFtd30s
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IF_%d_all_param_IF_trainday30Ret30Split.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.16 0.26 0.02
+ CloseThreshold 0.16 0.26 0.02
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.09 0.09 1
+PriceCost 0.1 0.1 1
+    --------
+IFnn10
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IF_%d_all_params_IF_addnn_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.16 0.26 0.02
+ CloseThreshold 0.16 0.26 0.02
+   --------
+IFnn60
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IF_%d_all_params_IF_addnn_trainday60.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.16 0.26 0.02
+ CloseThreshold 0.16 0.26 0.02
+   --------
+IFtd30
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IF_%d_all_param_IF_trainday30Ret30Split.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.16 0.26 0.02
+ CloseThreshold 0.16 0.26 0.02
+   --------
+*IHno
+10 raw 0
+IH2212;IF2212;IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IH.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.5 0.1
+ CloseThreshold 0.3 0.5 0.1
+    --------
+IHtd10s
+10 raw 0
+IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IH_%d_all_params_IH_trade_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.1 0.26 0.03
+ CloseThreshold 0.1 0.26 0.03
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.06 0.06 1
+PriceCost 0.1 0.1 1
+     --------
+IHtd60s
+10 raw 0
+IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_ICshift.json /home/sudebug/python/yp/signallist_IH_%d_all_params_IH_trade_trainday60.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.1 0.26 0.03
+ CloseThreshold 0.1 0.26 0.03
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.06 0.06 1
+PriceCost 0.1 0.1 1
+    --------
+IHtd10
+10 raw 0
+IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IH_%d_all_params_IH_trade_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.1 0.26 0.03
+ CloseThreshold 0.1 0.26 0.03
+     --------
+IHtd60
+10 raw 0
+IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IH_%d_all_params_IH_trade_trainday60.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.1 0.26 0.03
+ CloseThreshold 0.1 0.26 0.03
+--------
+*IClas60
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/las60_signallist_IC_%d.csv
+--------
+SetMaxPos 4 4 3
+OpenThreshold 0.42 0.54 0.04
+ CloseThreshold 0.42 0.54 0.04
+ CancelThreshold 0.42 0.54 0.04
+  --------
+*ICno
+10 raw 0
+IC2212;IF2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IC.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.35 .6 0.1
+ CloseThreshold 0.35 .6 0.1
+ --------
+*ICtd3
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_params_IC_trade_trainday3.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.5 0.05
+ CloseThreshold 0.3 0.5 0.05
+   --------
+IMtd10
+10 raw 0
+IM2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IM[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IM[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_params_IM_trade_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.4 1.0 0.1
+ CloseThreshold 0.4 1.0 0.1
+   --------
+IMtd30
+10 raw 0
+IM2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IM[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IM[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_params_IM_addnn_trainday30.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.4 .9 0.1
+ CloseThreshold 0.4 .9 0.1
+    --------
+IMtd30s
+10 raw 0
+IM2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IM[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IM[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json  /home/sudebug/python/yp/signallist_IM_%d_all_params_IM_addnn_trainday30.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.4 .9 0.1
+ CloseThreshold 0.4 .9 0.1
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.15 0.15 1
+PriceCost 0.1 0.1 1
+   --------
+IMtd10s
+10 raw 0
+IM2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IM[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IM[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_params_IM_trade_trainday10.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.4 1.0 0.1
+ CloseThreshold 0.4 1.0 0.1
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.15 0.15 1
+PriceCost 0.1 0.1 1
+    --------
+*IMtd10c
+10 raw 0
+IM2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IM[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IM[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/params_IM_trade_trainday10_ur.json
+--------
+SetMaxPos 1 1 1
+OpenThreshold 8.5e-05 0.000125 1e-05
+ CloseThreshold 8.5e-05 0.000125 1e-05
+   --------
+*IMtd60
+10 raw 0
+IM2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IM[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IM[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_params_IM_trade_trainday60.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.35 0.6 .05
+ CloseThreshold 0.35 0.6 .05
+   --------
+*ICb10
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/las10_signallist_IC_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.45 0.03
+ CloseThreshold 0.3 0.45 0.03
+ --------
+*ICb3
+10 raw 0
+IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/las3_signallist_IC_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.45 0.03
+ CloseThreshold 0.3 0.45 0.03
+    --------
+*IFno
+10 raw 0
+IF2212;IC2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IF.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.15 0.4 0.1
+ CloseThreshold 0.15 0.4 0.1
+  --------
+*Iftd3
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signal_trainday3_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.15 0.4 0.1
+ CloseThreshold 0.15 0.4 0.1
+   --------
+*IFtree
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/check_IF[v1]_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.14 0.22 0.02
+ CloseThreshold 0.14 0.22 0.02
+   --------
+*Iftd10
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signal_trainday10_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.15 0.4 0.05
+ CloseThreshold 0.15 0.4 0.05
+    --------
+*Iftd60
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signal_trainday60_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.2 0.3 0.05
+ CloseThreshold 0.2 0.3 0.05
+ --------
+*IFb10
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IF_v1_daylistjson.csv
+signaltest
+false
+/home/sudebug/python/output/IF[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IF[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/las10_signallist_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.25 0.4 0.03
+ CloseThreshold 0.25 0.4 0.03
+    --------
+*IFb3
+10 raw 0
+IF2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IF_v1_daylistjson.csv
+signaltest
+false
+/home/sudebug/python/output/IF[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IF[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/las3_signallist_IF_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.25 0.4 0.03
+ CloseThreshold 0.25 0.4 0.03
+    --------
+*IHno
+10 raw 0
+IH2212;IF2212;IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IH.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.3 0.5 0.1
+ CloseThreshold 0.3 0.5 0.1
+   --------
+*IHtd3
+10 raw 0
+IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IH_%d_all_params_IH_trade_trainday3.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.22 0.4 0.1
+ CloseThreshold 0.22 0.4 0.1
+ --------
+*IHb10
+10 raw 0
+IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IH_v1_daylistjson.csv
+signaltest
+false
+/home/sudebug/python/output/Ih[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/Ih[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/las10_signallist_IH_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.2 0.3 0.02
+ CloseThreshold 0.2 0.3 0.02
+  --------
+*IHb3
+10 raw 0
+IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IH_v1_daylistjson.csv
+signaltest
+false
+/home/sudebug/python/output/Ih[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/Ih[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/las3_signallist_IH_%d.csv
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.2 0.3 0.02
+ CloseThreshold 0.2 0.3 0.02
+--------
+*IFs3
+15 avg 0
+IF2303;IF2212;IC2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IF2209_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IF2209_orderlist_multi_%d.csv
+/home/sudebug/python/output/IF2209_tradelist_multi_%d.csv
+/home/trade/Trading/param_IF_vs3_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.3 0.45 0.1 
+ CloseThreshold 0.3 0.45 0.1 
+  --------
+*IFs6
+15 avg 0
+IF2303;IF2212;IC2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IF2209_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IF2209_orderlist_multi_%d.csv
+/home/sudebug/python/output/IF2209_tradelist_multi_%d.csv
+/home/trade/Trading/param_IF_vs6_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.3 0.45 0.05 
+ CloseThreshold 0.3 0.45 0.05 
+        --------
+IFsx10
+10 raw 0
+IF2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IF_%d_all_compute_IF_vsfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.1 0.60 0.05 
+ CloseThreshold 0.1 0.60 0.05 
+       --------
+IFsx10s
+10 raw 0
+IF2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IF_%d_all_compute_IF_vsfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.1 0.60 0.05
+ CloseThreshold 0.1 0.60 0.05
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.09 0.09 1
+PriceCost 0.1 0.1 1
+       --------
+IHsx10
+10 raw 0
+IH2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IH_%d_all_compute_IH_vsfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.1 0.28 0.04
+ CloseThreshold 0.1 0.28 0.04
+       --------
+IHsx10s
+10 raw 0
+IH2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IH_%d_all_compute_IH_vsfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.1 0.28 0.04
+ CloseThreshold 0.1 0.28 0.04
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.06 0.06 1
+PriceCost 0.1 0.1 1
+       --------
+IMsx10
+10 raw 0
+IM2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_compute_IM_vsfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.80 0.05
+ CloseThreshold 0.4 0.80 0.05
+       --------
+IMsx10s
+10 raw 0
+IM2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_compute_IM_vsfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.80 0.05
+ CloseThreshold 0.4 0.80 0.05
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.15 0.15 1
+PriceCost 0.1 0.1 1
+       --------
+*IFsx60
+10 raw 0
+IF2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signalvs_trainday60_IF_%d.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.55 .03
+ CloseThreshold 0.4 0.55 .03
+  --------
+*IHs6
+15 avg 0
+IH2303;IH2212;IF2212;IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IH2209_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IH2209_orderlist_multi_%d.csv
+/home/sudebug/python/output/IH2209_tradelist_multi_%d.csv
+/home/trade/Trading/param_IH_vs6_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.23 0.32 0.03
+ CloseThreshold 0.23 0.32 0.03
+ --------
+*IHs3
+15 avg 0
+IH2303;IH2212;IF2212;IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IH2209_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IH2209_orderlist_multi_%d.csv
+/home/sudebug/python/output/IH2209_tradelist_multi_%d.csv
+/home/trade/Trading/param_IH_vs3_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.32 0.44 0.04
+ CloseThreshold 0.32 0.44 0.04
+   --------
+*ICs3
+30 avg 0
+IC2303;IC2212;IF2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC1912_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC1912_orderlist_multi_%d.csv
+/home/sudebug/python/output/IC1912_tradelist_multi_%d.csv
+/home/trade/Trading/param_IC_vs3_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.50 .55 0.05
+ CloseThreshold 0.50 .55 0.05
+    --------
+*ICs6
+30 avg 0
+IC2303;IC2212;IF2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC1912_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC1912_orderlist_multi_%d.csv
+/home/sudebug/python/output/IC1912_tradelist_multi_%d.csv
+/home/trade/Trading/param_IC_vs6_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.35 .55 0.05
+ CloseThreshold 0.35 .55 0.05
+      --------
+ICsx10s
+10 raw 0
+IC2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_compute_IC_vsfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.7 0.05
+ CloseThreshold 0.4 0.7 0.05
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.14 0.14 1
+PriceCost 0.1 0.1 1
+     --------
+*ICsx60
+10 raw 0
+IC2303
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_compute_IC_vsfm_trianday60.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.45 0.7 0.05
+ CloseThreshold 0.45 0.7 0.05
+  --------
+*ICc3
+30 avg 0
+IC2211;IC2212;IF2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/ICvc_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/ICvc_orderlist_multi_%d.csv
+/home/sudebug/python/output/ICvc_tradelist_multi_%d.csv
+/home/trade/Trading/param_IC_vc+13_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.6 0.9 0.1
+ CloseThreshold 0.6 0.9 0.1
+  --------
+*ICc6
+30 avg 0
+IC2211;IC2212;IF2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/ICvc_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/ICvc_orderlist_multi_%d.csv
+/home/sudebug/python/output/ICvc_tradelist_multi_%d.csv
+/home/trade/Trading/param_IC_vc+16_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.7 0.1
+ CloseThreshold 0.4 0.7 0.1
+      --------
+ICcx10s
+10 raw 0
+IC2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_compute_IC_vcfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.9 0.1
+ CloseThreshold 0.4 0.9 0.1
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.14 0.14 1
+PriceCost 0.1 0.1 1
+       --------
+ICcx10
+10 raw 0
+IC2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IC_%d_all_compute_IC_vcfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.9 0.1
+ CloseThreshold 0.4 0.9 0.1
+       --------
+*ICcx60
+10 raw 0
+IC2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signalvc_trainday60_IC_%d.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.4 0.6 0.05
+ CloseThreshold 0.4 0.6 0.05
+ --------
+*IFc3
+15 avg 0
+IF2211;IF2212;IC2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IFvc_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IFvc_orderlist_multi_%d.csv
+/home/sudebug/python/output/IFvc_tradelist_multi_%d.csv
+/home/trade/Trading/param_IF_vc+13_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.44 0.6 .04
+ CloseThreshold 0.44 0.6 .04
+ --------
+*IFc6
+15 avg 0
+IF2211;IF2212;IC2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IFvc_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IFvc_orderlist_multi_%d.csv
+/home/sudebug/python/output/IFvc_tradelist_multi_%d.csv
+/home/trade/Trading/param_IF_vc+16_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.2 0.4 .05
+ CloseThreshold 0.2 0.4 .05
+       --------
+*IFcx60
+10 raw 0
+IF2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signalvc_trainday60_IF_%d.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.34 0.5 .04
+ CloseThreshold 0.34 0.5 .04
+      --------
+IFcx
+10 raw 0
+IF2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IF_%d_all_compute_IF_vcfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.2 0.5 .05
+ CloseThreshold 0.2 0.5 .05
+   --------
+*IHc3
+15 avg 0
+IH2211;IH2212;IF2212;IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IHvc_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IHvc_orderlist_multi_%d.csv
+/home/sudebug/python/output/IHvc_tradelist_multi_%d.csv
+/home/trade/Trading/param_IH_vc+13_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.35 0.41 0.03 
+ CloseThreshold 0.35 0.41 0.03 
+  --------
+*IHc6
+15 avg 0
+IH2211;IH2212;IF2212;IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IHvc_v1_multi_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IHvc_orderlist_multi_%d.csv
+/home/sudebug/python/output/IHvc_tradelist_multi_%d.csv
+/home/trade/Trading/param_IH_vc+16_xy5.json
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.23 0.32 0.03 
+ CloseThreshold 0.23 0.32 0.03 
+ --------
+IHcx10
+10 raw 0
+IH2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IH_%d_all_compute_IH_vcfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.1 0.28 0.04
+ CloseThreshold 0.1 0.28 0.04
+  --------
+IMcxs
+10 raw 0
+IM2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_compute_IM_vcfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.6 1 0.1
+ CloseThreshold 0.6 1 0.1
+P0 0.5 0.5 1
+P1 0.1 0.1 1
+YPMul 2.0 2.0 1
+CommissionRate 0.15 0.15 1
+PriceCost 0.1 0.1 1
+  --------
+IMcx
+10 raw 0
+IM2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IM_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signallist_IM_%d_all_compute_IM_vcfm.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.6 1 0.1
+ CloseThreshold 0.6 1 0.1
+  --------
+*IHcx60
+10 raw 0
+IH2211
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1+1_daylist.csv
+signaltest
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/sudebug/python/output/param_IX.json /home/sudebug/python/yp/signalvc_trainday60_IH_%d.csv
+--------
+SetMaxPos 1 1 2
+OpenThreshold 0.3 0.4 0.03 
+ CloseThreshold 0.3 0.4 0.03 
+    --------
+*ICvcno
+10 raw 0
+IC2303;IF2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IC.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.7 1.1 0.05
+ CloseThreshold 0.7 1.1 0.05
+    --------
+*IFno
+10 raw 0
+IF2212;IC2212;IH2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IF.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.45 0.58 0.03
+ CloseThreshold 0.45 0.58 0.03
+      --------
+*IHvcno
+10 raw 0
+IH2303;IF2212;IC2212
+/home/sudebug/python/output/positionlimit_CFFEX4.txt
+/home/sudebug/python/output/IC_v1_daylist.csv
+xyjsoncombine
+false
+/home/sudebug/python/output/IC[v1]_orderlist_%d_signal.csv
+/home/sudebug/python/output/IC[v1]_tradelist_%d_signal.csv
+/home/trade/Trading/param_IH.json
+--------
+SetMaxPos 1 1 3
+OpenThreshold 0.28 0.5 0.04
+ CloseThreshold 0.28 0.5 0.04
